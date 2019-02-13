@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Firebase Database UI</string>
+    <string name="welcome_to_reynaldi_world">Welcome to Reynaldi World</string>
+    <string name="delete_data_data">Delete Data</string>
+    <string name="update_data_data">Update Data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="enter_d_o_b_dd_mm_yyyy">Enter D.O.B (DD/MM/YYYY)</string>
+    <string name="i_am">I am</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_data">Add Data</string>
+    <string name="user_data">User Data</string>
+    <string name="useremail_domain_com">UserEmail@domain.com</string>
+    <string name="username_of_him_her">Username Of him/her</string>
+    <string name="deleteconfirm">DeleteConfirm</string>
+    <string name="canceldel">cancelDel</string>
+    <string name="update_data">Update Data</string>
+</resources>
